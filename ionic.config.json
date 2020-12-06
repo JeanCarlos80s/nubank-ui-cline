@@ -1,0 +1,7 @@
+{
+  "name": "nubank-clone-ui",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
