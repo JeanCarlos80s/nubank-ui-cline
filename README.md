@@ -1,5 +1,5 @@
 <h1 align="center">
-    Nubank UI Cline
+    Nubank UI Clone
 </h1>
 
 <br>
