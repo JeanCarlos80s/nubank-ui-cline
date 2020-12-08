@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  <img alt="Frontend" src=".github/screen.gif" width="100%">
+  <img alt="Frontend" src=".github/screen.gif" width="50%">
 </p>
 
 ## Tecnologias
